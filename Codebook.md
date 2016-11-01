@@ -2,7 +2,7 @@
 	
 HAR_AVG is table of average of mean and standard deviation of Human Activity Recognition Using Smartphones for each activity and each subject.	
 	
-**Number of Rows :**	40 Rows (Records)
+**Number of Rows :**	40 Rows (Records)  
 **Number of Columns :**	69 Columns (Variables)
 	
 ###1. Type	
