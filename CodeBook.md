@@ -1,5 +1,5 @@
 	
-# Codebook of HAR_AVG	
+# Codebook of HAR_AVG	 
 	
 HAR_AVG is table of average of mean and standard deviation of Human Activity Recognition Using Smartphones for each activity and each subject.	
 	
